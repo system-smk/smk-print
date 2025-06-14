@@ -1,0 +1,1 @@
+smk-print est une petite fonction C++ légère basée sur les templates, permettant d'afficher facilement des données dans le terminal. Conçue pour être intégrée dans n'importe quel projet C++, elle prend en charge plusieurs types de données sans nécessiter de surcharge explicite.
